@@ -48,4 +48,11 @@ body {
     max-width: 100%;
     border-radius: 10px;
   }
+
+footer{
+    text:center;
+    display:flex;
+    justify-content:center;
+    margin:auto;
+    background-color:  #ff6f61;
   
